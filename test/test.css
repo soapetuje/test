@@ -1,0 +1,19 @@
+td {
+    height: 10px;
+    width: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    padding: 0;
+    border-spacing: 0;
+}
+
+td:hover {
+    background-color: aqua;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
